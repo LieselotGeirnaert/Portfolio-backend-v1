@@ -2,8 +2,7 @@
   "kind": "collectionType",
   "collectionName": "projects",
   "info": {
-    "name": "Project",
-    "description": ""
+    "name": "Project"
   },
   "options": {
     "increments": true,
